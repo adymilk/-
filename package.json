@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/focalhot/node.js-crawler.git"
+  },
+  "keywords": [
+    "node.js",
+    "crawler"
+  ],
+  "author": "Warren Xia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/focalhot/node.js-crawler/issues"
+  },
+  "homepage": "https://github.com/focalhot/node.js-crawler",
+  "devDependencies": {
+    "cheerio": "^0.18.0",
+    "fs": "0.0.2",
+    "mkdirp": "^0.5.0",
+    "request": "^2.51.0"
+  },
+  "dependencies": {
+    "async": "^2.1.5"
+  }
+}
